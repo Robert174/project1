@@ -9,4 +9,7 @@ def sss(a, v):
 a = int(input())
 b = a + 10
 s = ss(a, b)
-s = sss(s, b)
+s1 = sss(s, b)
+s2 = s + s1
+print(s2)
+
