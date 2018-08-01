@@ -1,9 +1,8 @@
 def ss(a, b):
     s = a + b
-    return s
+    print(s)
 
 a = int(input())
-b = a + 10
+b = a + 100
 s = ss(a, b)
 
-print(s)
