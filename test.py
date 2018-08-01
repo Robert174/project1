@@ -12,13 +12,6 @@ s = ss(a, b)
 
 s = sss(s, b)
 
-k = s + 3
-
-print(s)
-print(k)
-
-s1 = sss(s, b)
-s2 = s + s1
-print(s2)
+print('Robert')
 
 
