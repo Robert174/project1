@@ -11,3 +11,8 @@ b = a + 100
 s = ss(a, b)
 s = sss(s, b)
 
+k = s + 3
+
+print(s)
+print(k)
+
